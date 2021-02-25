@@ -1,0 +1,14 @@
+{
+    "javascript.format.enable": false,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "javascript.preferences.useAliasesForRenames": false,
+    "typescript.validate.enable": false,
+    "debug.javascript.suggestPrettyPrinting": false,
+    "typescript.surveys.enabled": false,
+    "javascript.validate.enable": false,
+    "javascript.suggestionActions.enabled": false,
+    "javascript.suggest.paths": false,
+    "javascript.suggest.completeJSDocs": false,
+    "tslint.enable": false
+}
